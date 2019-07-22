@@ -1,4 +1,4 @@
- div.app-sign-in {
+div.app-sign-in {
   position: absolute;
   top: 0;
   left: 0;
@@ -13,3 +13,11 @@
   width: 100%;
   height: auto;
 }
+
+.logo-block {
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
