@@ -14,10 +14,37 @@ div.app-sign-in {
   height: auto;
 }
 
-.logo-block {
-  margin: 40px 0;
+.center-element {
   display: flex;
   justify-content: center;
-  align-items:center;
+  align-items: center;
+}
+
+.logo-block {
+  margin: 40px 0;
+}
+
+.welcome-block {
+  flex-direction: column;
+  margin: 40px 0;
+  color: white;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+  .heading-name {
+    font-weight: bold;
+  }
+}
+
+.sign-in_button_block {
+  margin: 80px 50px;
+
+}
+
+.terms-and-conditions {
 }
 
