@@ -1,15 +1,52 @@
-.signInScreen {
+div.app-sign-in {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   margin: auto;
-  min-width: 50%;
-  min-height: 50%;
+  min-width: 100%;
+  min-height: 100%;
   overflow: hidden;
   background: url(https://www.standardbank.co.za/images/SBG/Assets/Img/GlobalWeb/W_signin.jpg) no-repeat 50% fixed;
   background-size: cover;
   width: 100%;
   height: auto;
 }
+
+.center-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-block {
+  margin: 40px 0;
+}
+
+.welcome-block {
+  flex-direction: column;
+  margin: 40px 0;
+  color: white;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+  .heading-name {
+    font-weight: bold;
+  }
+}
+
+.sign-in_button_block {
+  margin: 100px 50px 40px 50px;
+
+}
+
+.terms-and-conditions {
+  color: white;
+  font-size: 12px;
+}
+
