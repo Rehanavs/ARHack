@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="192891da-2392-4496-bd10-d94686cc469e" name="Default Changelist" comment="">
+    <list default="true" id="192891da-2392-4496-bd10-d94686cc469e" name="Default Changelist" comment="adding images">
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/face-rec/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/face-rec/group@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/face-rec/group@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/help.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/investment-tile/w-1-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/investment-tile/w-1-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/investment-tile/w-1-copy@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/sbsa-logo/sbg-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/sbsa-logo/sbg-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/sbsa-logo/sbg-logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/search-bar/top-i-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/search-bar/top-i-1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARHack-Clientside/src/assets/images/search-bar/top-i-1@3x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,28 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/components/signin/signin.component.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/components/signin/signin.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="51" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/modules/material.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -95,11 +91,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -125,6 +139,7 @@
         <option value="$PROJECT_DIR$/ARHack-Clientside/src/app/components/signin/signin.component.scss" />
         <option value="$PROJECT_DIR$/ARHack-Clientside/src/styles.scss" />
         <option value="$PROJECT_DIR$/ARHack-Clientside/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -163,24 +178,7 @@
               <item name="ARHack" type="462c0819:PsiDirectoryNode" />
               <item name="ARHack-Clientside" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ARHack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARHack" type="462c0819:PsiDirectoryNode" />
-              <item name="ARHack-Clientside" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ARHack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARHack" type="462c0819:PsiDirectoryNode" />
-              <item name="ARHack-Clientside" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="signin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ARHack" type="b2602c69:ProjectViewProjectNode" />
@@ -188,6 +186,15 @@
               <item name="ARHack-Clientside" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ARHack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARHack" type="462c0819:PsiDirectoryNode" />
+              <item name="ARHack-Clientside" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,18 +209,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ARHack-Clientside/src/app/modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ARHack-Clientside/src/assets/images" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/ARHack-Clientside/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ARHack-Clientside/src/app/modules" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ARHack-Clientside/src/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ARHack-Clientside/src/assets/images" />
+      <recent name="$PROJECT_DIR$/ARHack-Clientside/src/app/modules" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -240,10 +248,18 @@
       <updated>1563861900863</updated>
       <workItem from="1563861902560" duration="626000" />
     </task>
+    <task id="LOCAL-00001" summary="added gitignore">
+      <created>1563957740297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563957740297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8853000" />
+    <option name="totallyTimeSpent" value="9615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -283,6 +299,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/components/signin/signin.component.scss">
@@ -357,7 +377,21 @@
     <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ARHack-Clientside/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
